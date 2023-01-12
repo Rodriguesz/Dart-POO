@@ -1,0 +1,4 @@
+Nada mais são que outros operator methods só que de assinatura, atribuição.
+
+= -= /= %= >>= ^=
++= *= ~/= <<= &= |=

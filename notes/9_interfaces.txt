@@ -1,0 +1,12 @@
+É um contrato. Uma forma de criar um objeto, uma classe.
+
+A diferença de uma classe abstrata pra uma interface, é que a classe abstrata tem métodos implementados dentro dela
+
+Nunca colocar métodos implementados em classes que são interfaces
+
+Utiliza o conceito do "É UM"
+
+utiliza implements
+
+ex: Uno É UM carro
+    Gol É UM carro

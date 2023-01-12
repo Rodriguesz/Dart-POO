@@ -1,0 +1,7 @@
+Junta classes em um arquivo sem elas estarem no mesmo arquivo
+
+Posssibilita criar classes privadas em arquivos diferentes e utiliza-las na classe principal
+
+Os imports de um arquivo "part of" devem ser feitos na classe principal
+
+os "part" devem estar sempre após aos imports

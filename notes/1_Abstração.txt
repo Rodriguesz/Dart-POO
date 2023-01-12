@@ -1,0 +1,22 @@
+Abstração (Reúso)
+
+Algo genérico
+
+"Processo pelo qual se isolam características, considerando os que tenham em comum certos grupos de objetos"
+
+retirar de uma parte características importantes para chegar no objetivo final
+
+extrair de algum processo ou estrutura as características que são essenciais para aquela utilização
+
+-------------------------------------------------------------------------------------------------------------
+ex: Fabrica de cadeiras
+
+características comuns: assento, encosto e serve para sentar
+
+com essas características comuns podemos criar vários tipos de cadeiras como:
+Cadeira de praia;
+Cadeira de escritório;
+Carteira de estudo...
+
+---------------------------------------------------------------------------------------------------------------
+A repetição de código é uma das piores práticas da programação 

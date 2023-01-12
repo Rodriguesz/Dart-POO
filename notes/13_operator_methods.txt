@@ -1,0 +1,5 @@
+funções ou métodos em que se utiliza 1 caractere (o caractere "+", por exemplo)]
+
+utiliza a flag "operator" antes de nomear o método
+
+Só podem ser feitos com caractes especiais

@@ -1,0 +1,1 @@
+Mesma coisa de ordenação de lista só que vc implementa a interface Comparable na sua classe

@@ -1,0 +1,7 @@
+Metadatas ou anotações
+
+São as classes que iniciam com @
+
+ex: @deprecated, @gzip
+
+para utilizar uma classe como metadata, o contrutor da classe precisa ser do tipo const

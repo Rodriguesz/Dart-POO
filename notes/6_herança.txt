@@ -1,0 +1,5 @@
+herdar caracteristicas e comportamentos de alguma classe
+
+utiliza extends
+
+Classe abstrata: serve de molde para outras classes

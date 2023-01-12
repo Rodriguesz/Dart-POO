@@ -1,0 +1,17 @@
+Atributos estáticos: atributos que não mudam
+
+Atributos de instância: Atributos que precisam de uma instância criada
+        Camiseta camisetaNike = Camiseta();
+        camisetaNike.tamanho = 'GG';
+        print("camisetaNike.tamanho");
+
+Atributos de classe:  Não precisam de uma instância. São acessados direto
+        print(Camiseta.nome);
+
+----------------------------------------------------------------------------------
+modificadores de acesso
+
+Públic public
+
+Privado private:
+    Colocar um underline antes do nome do atributo/método torna ele privado

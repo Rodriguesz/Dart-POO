@@ -1,0 +1,8 @@
+Construtores: tudo o que eu quero ao inicializar a classe
+Servem para criar a classe com um padrão e o padrão é definido pelos atributos
+
+Construtores default: Recebe os parâmetros e pode setar diretamente nos atributos
+
+Construtores nomeados: Pode-se nomear os construtores tornando ele mais especifico e facilitando o entendimento. Pode-se criar vários construtores nomeados
+
+contrutor factory: Utilizado quando temos uma regra de negocio para criação da nossa classe. Faz uma lógica de negocio antes de realmente construir a instância

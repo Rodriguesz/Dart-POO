@@ -1,0 +1,4 @@
+São métodos de acessoa ao atributo
+Servem para encapsulamento de atributos
+
+Só faz sentido utilizar quando envolver uma regra de negócio 

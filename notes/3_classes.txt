@@ -1,0 +1,6 @@
+Classes possuem caracteristicas/atributos e comportamentos/métodos
+
+Variaveis dentro das classes são chamadas de atributos
+Funções dentro de classe são chamadas de métodos
+
+Não é necessário usar o "new" ao instanciar uma classe

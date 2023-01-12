@@ -1,0 +1,8 @@
+Encapsulamento
+
+Transformar um estrutura complexa em algo mais simples
+
+Podemos esconder a forma como algo foi feito, dando a quem precisa apenas o resultado gerado
+------------------------------------------------------------------
+
+ex: Transformar uma receita de um remédio em uma capsula de comprimido

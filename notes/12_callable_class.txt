@@ -1,0 +1,3 @@
+Uma forma de criar uma classe e fazer a invocação dessa classe como se fosse uma função
+
+Para utilizar, deve ter um método com a assinatura "call"

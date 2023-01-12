@@ -1,0 +1,1 @@
+Capacidade de adicionar funções (métodos) dentro de classes que você não tem o código fonte

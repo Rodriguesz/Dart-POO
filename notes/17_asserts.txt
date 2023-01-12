@@ -1,0 +1,1 @@
+É uma afirmação. É possivel fazer algumas verificações para rodar em tempo de desenvolvimento

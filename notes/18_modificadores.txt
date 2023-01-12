@@ -1,0 +1,8 @@
+Um construtor do tipo const devem ter apenas atributos finais (final)
+
+final String nome;
+final int idade;
+
+Ao criar o objeto, ele deve conter a palavra reservada const
+
+var p2 = const Pessoa(nome: 'Rodrigo', idade: 37);

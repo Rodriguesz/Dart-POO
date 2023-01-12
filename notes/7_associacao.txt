@@ -1,0 +1,8 @@
+"alguma coisa tem aquela outra coisa"
+
+ex: uma pessoa tem um endereço.
+    Um desenvolvedor tem um computador.
+
+Composição é algo obrigatório. Uma pessoa não pode existir sem um endereço dentro do meu sistema
+
+Agregação não é obrigatório. Uma pessoa pode existir sem um telefone dentro do meu sistema
